@@ -1,44 +1,43 @@
-# Hi, I'm Adith Kurian 👋  
-**B.Tech CSE | Full-Stack Developer | MERN Stack | Backend Engineering**
+# Hi, I'm Adith Kurian Pulimalayil 👋  
+**Final-Year B.Tech CSE | Full-Stack Developer | MERN Stack | Backend Engineering**
 
-I build end-to-end applications with clean architecture, secure authentication, and scalable backend systems.  
-Focused on JavaScript-based backend engineering and real-world project deployment.
+I build secure, scalable applications with clean backend architecture and practical full-stack integrations.  
+Comfortable shipping production-ready MERN systems with authentication, file handling, and clear UI/UX flows.
 
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React, Vite, Tailwind CSS  
-**Backend:** Node.js, Express.js, RESTful APIs  
-**Database:** MongoDB, Mongoose  
-**Auth & File Handling:** JWT, Multer  
-**Tools:** Git, GitHub, Postman, Render, Netlify  
+**Programming:** Python, JavaScript, SQL, HTML/CSS.
+
+**Frameworks/Tools:** React, Vite, Node.js, Express, MongoDB, SQLite, Git.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Personal Projects
 
-### 🔹 **Messaging & File-Sharing App (MERN)**
-Real-time style chat with user profiles, file upload, message deletion, searching, and optimistic UI updates.
+### **Messaging & File-Sharing App (MERN)**
+Chat application with file uploads, chat search, message deletion, user profiles, and optimistic updates.
 
-### 🔹 **Blog App with Role-Based Access Control**
-Admin/Editor/Reader roles, secure routes, full CRUD posts, and protected actions with middleware.
+### **Blog App with Role-Based Access Control**
+Role-based authorization (Admin/Editor/Reader), post CRUD, secure protected routes, and moderate-ready UI.
 
-### 🔹 **URL Shortener Service**
-Custom short links, click analytics, expiry system, and safe-redirect handling.
+### **URL Shortener Service**
+Custom short URLs, click analytics, expiry logic, and safe redirect handling.
 
-### 🔹 **Simple To-Do App (Mobile-ready)**
-Lightweight task management app with clean UI.
+### **To-Do App (Mobile-ready)**
+Minimal task manager with smooth UI and mobile install support.
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=6e0r9e-ux&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6e0r9e-ux&layout=compact&theme=default" height="150"/>
-</p>
+## 🤝 Academic / Collaborative Projects
+
+### **Disaster Relief Coordination System**
+Co-developed an app for managing disaster events, aid distribution, volunteer tracking, and data reporting.
+
+### **AI-Powered Adaptive Content Generator**
+Co-developed an AI-powered system that analyzes user-provided reference content and generates relevant, adaptive text based on context.
 
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/adith-kurian  
-- **Portfolio:** https://adithkurian.dev
+- **LinkedIn:** https://linkedin.com/in/adith-kurian
