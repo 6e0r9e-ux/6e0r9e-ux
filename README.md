@@ -24,7 +24,7 @@
 - Final-Year B.Tech CSE student
 - MERN Stack Developer focused on backend systems
 - Currently learning system design and ML/DL
-- Unwind and explore ideas through movies/shows
+- Unwind and explore ideas through movies/shows🍿
 
 ---
 
