@@ -54,12 +54,13 @@
 ---
 
 ### 🚀 Projects  
+- **Interactive Automata Visualization & Conversion System** — automata education tool, interactive canvas, YOLO for hand-drawn uploads
 - **Messaging + File Sharing App** — chat, file uploads, profile system (MERN)  
 - **Blog App with RBAC** — admin/user/guest roles, CRUD posts  
-- **URL Shortener** — custom keys, analytics, expiry links  
-- **To-Do App** — mobile-ready frontend  
-- **Disaster Relief System** — volunteer tracking, event management, aid distribution(Python + SQLite)
 - **AI Note Generator** — notes from user textfiles, summarization, study plans(NLP)
+- **Disaster Relief System** — volunteer tracking, event management, aid distribution(Python + SQLite)
+- **URL Shortener** — custom keys, analytics, expiry links  
+- **To-Do App** — mobile-ready frontend 
 
 ---
 
