@@ -7,9 +7,6 @@
   <a href="mailto:adithpulimalayil@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="28"/>
   </a>
-  <a href="https://adithkurian.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7D3C98?style=flat&logo=githubpages&logoColor=white" height="28"/>
-  </a>
   <a href="https://github.com/6e0r9e-ux" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white" height="28"/>
   </a>
